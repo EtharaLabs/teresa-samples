@@ -103,8 +103,4 @@ Released under the MIT License. Copyright (c) 2026 Ethara.AI. See [LICENSE](LICE
 
 For security reports, write to security@ethara.ai. For conduct concerns, write to conduct@ethara.ai.
 
----
-
-## Copyright
-
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
